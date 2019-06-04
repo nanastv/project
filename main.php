@@ -38,7 +38,13 @@
 	  </div>
 
 	  <div class="p-5">
-		  <div style="height:100px" class="bg-danger row mb-4">
+		  <div style="height:100px" class="bg-danger row mb-4 p-3">
+		  	<div class="input-group mb-3">
+			  <input type="text" class="form-control" aria-label="Recipient's username" aria-describedby="button-addon2">
+			  <div class="input-group-append">
+			    <button class="btn btn-primary px-3" style="height:39px;" type="button" id="button-addon2">Поиск</button>
+			  </div>
+			</div>
 		  </div>
 		  <div class="row">
 		  	<?php

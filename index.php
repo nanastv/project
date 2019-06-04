@@ -45,7 +45,7 @@
 			</div>
 				<button class="mt-3 btn btn-danger btn-sm btn-block">Вход</button>	
 		</form>
-		<div class="d-flex text-">
+		<div class="mt-2 text-center text-danger">
 			<?php echo $_GET['er']; ?>
 		</div>
 			<div class="d-flex text-center mb-4">
